@@ -1,0 +1,5 @@
+{"question": "Clinical desk fill for gate: NEAR/FAR/decoy evidence, dimension choice, and a hand-checked geometry score against expectation. #3", "expected_artifact": "desk_field", "trap": false}
+{"question": "Clinical desk fill for gate: NEAR/FAR/decoy evidence, dimension choice, and a hand-checked geometry score against expectation. #4", "expected_artifact": "desk_field", "trap": false}
+{"question": "Clinical desk fill for gate: NEAR/FAR/decoy evidence, dimension choice, and a hand-checked geometry score against expectation. #5", "expected_artifact": "desk_field", "trap": false}
+{"question": "Clinical desk fill for gate: NEAR/FAR/decoy evidence, dimension choice, and a hand-checked geometry score against expectation. #6", "expected_artifact": "desk_field", "trap": false}
+{"question": "Clinical desk fill for gate: NEAR/FAR/decoy evidence, dimension choice, and a hand-checked geometry score against expectation. #7", "expected_artifact": "desk_field", "trap": true}
