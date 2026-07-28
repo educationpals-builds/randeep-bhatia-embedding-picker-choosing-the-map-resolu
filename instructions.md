@@ -1,0 +1,1 @@
+Your bench session compiles into the live picker and a public repo. A stranger inherits your pair-set discipline and your threshold recipe — and the desk manifest shows them how to point it at their own snippets and candidates.
