@@ -1,0 +1,76 @@
+{
+  "verificationToken": "01KYNHSTCS473XAXHT1N585GMP",
+  "courseId": "2ad65768-198c-5614-ba63-948602ecc629",
+  "chapterId": "b3e8358e-299a-5e11-82fd-16ea3279ac74",
+  "templateId": "baw_c002_ch03",
+  "variants": [
+    {
+      "id": "README.md",
+      "path": "README.md"
+    },
+    {
+      "id": "charter.md",
+      "path": "charter.md"
+    },
+    {
+      "id": "blueprints/embedding-picker.md",
+      "path": "blueprints/embedding-picker.md"
+    },
+    {
+      "id": "prompts/pair-craft-pack.md",
+      "path": "prompts/pair-craft-pack.md"
+    },
+    {
+      "id": "data/pairset-manifest.md",
+      "path": "data/pairset-manifest.md"
+    },
+    {
+      "id": "METHOD.md",
+      "path": "METHOD.md"
+    },
+    {
+      "id": "VERIFY.md",
+      "path": "VERIFY.md"
+    },
+    {
+      "id": ".ep/provenance.json",
+      "path": ".ep/provenance.json.md"
+    },
+    {
+      "id": "blueprints/embedding-advisor.md",
+      "path": "blueprints/embedding-advisor.md"
+    },
+    {
+      "id": "data/evidence-set.jsonl",
+      "path": "data/evidence-set.jsonl"
+    },
+    {
+      "id": "runs/tuning-runs-01.md",
+      "path": "runs/tuning-runs-01.md"
+    },
+    {
+      "id": "tests/similarity-board.md",
+      "path": "tests/similarity-board.md"
+    },
+    {
+      "id": "tests/trust-gate.md",
+      "path": "tests/trust-gate.md"
+    },
+    {
+      "id": "tests/probes.jsonl",
+      "path": "tests/probes.jsonl"
+    },
+    {
+      "id": "tests/run-local.md",
+      "path": "tests/run-local.md"
+    },
+    {
+      "id": "STORY.md",
+      "path": "STORY.md"
+    }
+  ],
+  "totalScore": null,
+  "verdict": null,
+  "compiledAt": "2026-07-28T23:43:46.585Z",
+  "compositionMode": "shipgen"
+}
