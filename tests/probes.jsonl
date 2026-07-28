@@ -1,0 +1,8 @@
+{"id":"probe-01","name":"chest-pain-angina-near","input":["chest pain","angina"],"targets":["synonym recognition","clinical term mapping"],"expected":"NEAR","invariant":"cosine >= 0.70"}
+{"id":"probe-02","name":"sob-dyspnea-near","input":["SOB","dyspnea"],"targets":["abbreviation bridge","clinical synonym"],"expected":"NEAR","invariant":"cosine >= 0.70"}
+{"id":"probe-03","name":"fracture-gastritis-far","input":["fracture","gastritis"],"targets":["unrelated conditions","separation baseline"],"expected":"FAR","invariant":"cosine < 0.40"}
+{"id":"probe-04","name":"chest-pain-anxiety-decoy","input":["chest pain","anxiety"],"targets":["lexical-near decoy","semantic separation"],"expected":"MID","invariant":"0.40 <= cosine < 0.70"}
+{"id":"probe-05","name":"hypotensive-hypertensive-far","input":["patient is hypotensive on arrival","patient is hypertensive on arrival"],"targets":["antonym twin","negation pattern"],"expected":"FAR","invariant":"cosine < 0.50"}
+{"id":"probe-06","name":"hypotensive-low-bp-near","input":["hypotensive","low blood pressure"],"targets":["clinical synonym","abbreviation expansion"],"expected":"NEAR","invariant":"cosine >= 0.70"}
+{"id":"probe-07","name":"learner-probe-01","input":["Clinical desk fill for gate: NEAR/FAR/decoy evidence, dimension choice, and a hand-checked geometry score against expectation. #1"],"targets":["learner-defined"],"expected":"NEAR","invariant":"cosine >= 0.70"}
+{"id":"probe-08","name":"learner-probe-02","input":["Clinical desk fill for gate: NEAR/FAR/decoy evidence, dimension choice, and a hand-checked geometry score against expectation. #2"],"targets":["learner-defined"],"expected":"NEAR","invariant":"cosine >= 0.70"}
